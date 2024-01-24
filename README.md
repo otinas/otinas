@@ -3,7 +3,7 @@
 ⚡ I'm Oz, a Stats student with aspirations in the data field. 
 
 🌱 My interests in the field lie in analytical and predictive applications of data, and insight deduction through ML, which I plan to pursue as a career.
-🔭 I’m currently working on small-scale data modelling projects while learning about deep-learning tools and applications.
+I’m currently working on small-scale data modelling projects while learning about deep-learning tools and applications.
 
 🤔 I’m looking for help with... most things! Always open to suggestions with my code.
 
