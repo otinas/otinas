@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub
+
+⚡ I'm Oz, a Stats student with aspirations in the data field. 
+🌱 My current interests in the field lie in analytical and predictive applications of data, and insight deduction through ML, which I plan to pursue as a career.
+
+🔭 I’m currently working on small-scale data modelling projects while learning about deep-learning tools and applications.
+
+🤔 I’m looking for help with... most things! Always open to suggestions with my code.
+📫 How to reach me: tinas.ozgur9@gmail.com
 
 <!--
 **otinas/otinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
